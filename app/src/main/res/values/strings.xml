@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlantAnalyzer</string>
+    <string name="title_activity_result">Results</string>
+    <string name="title_activity_medicine">Fertilizers</string>
+</resources>
